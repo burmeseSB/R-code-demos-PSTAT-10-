@@ -1,6 +1,6 @@
 #Lecture 2 demo 1
 #create a vector of the given test scores using the function c()
-Test_Scores <-  c(8,7,8,10,5) #Enter test scores
+Test_Scores <-  c(8,7,8,10,5) #  Enter test scores
 Test_Scores
 
 #Is test score a numeric vector?
